@@ -1,0 +1,3 @@
+Cikiss=False
+alar=""
+uygulama=""
